@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "Fundecreyes",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_width": "400",
+    "logo_height": "68",
+    "logo_text": "Fundecreyes"
   },
 
   "settings": {
@@ -24,12 +24,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2025 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2025 [Fundecreyes](https://themefisher.com)"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "address": "Barrio Olaya Herrera, sector Progreso calle 65 A No. 34 – 68 Cartagena de Indias, Colombia Cartagena, Colombia",
+    "email": "fundecreyes@gmail.com",
+    "phone": "+57 313 5801595"
   }
 }
